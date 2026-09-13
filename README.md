@@ -3,7 +3,7 @@ An exact, high-precision algorithmic model for the prime-counting function π(n)
 
 # An Adaptive, High-Precision Algorithmic Model for the Prime-Counting Function
 
-**Primary Architect:** [David Ella] (Age 16)  
+**Primary Architect:** [Fantasista] (Age 16)  
 **Core Discovery:** The Dynamic Stabilization Constant = (Square Root of 1/2) raised to the power of e (approximately 0.3898)  
 **Project Status:** Empirical Engine Complete (Verified to 1 Quadrillion) | Infinite Calculus Proof Open for Collaboration
 
