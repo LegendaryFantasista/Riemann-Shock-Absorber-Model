@@ -15,6 +15,9 @@ This project releases a self-correcting, multi-layered algorithmic system design
 The Complete System Layout:
 Exact Integer Primes = Floor[ (Li(n) - 0.5 * Li(Square Root of n) + Shock Absorbed Constant) - Sum of Zeta Waves ]
 
+<img width="1384" height="266" alt="Screenshot_20260913_190524_Google" src="https://github.com/user-attachments/assets/2ac22cd7-2ff9-4af2-a231-2e065b8448f7" />
+
+
 ---
 
 ##  2. Architectural Components Explained in Plain Text
